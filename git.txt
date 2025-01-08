@@ -14,4 +14,4 @@ ex.https://github.com
 Github Account
 =============
 Creating nre repository:suraj
-make our project
+make our projects
