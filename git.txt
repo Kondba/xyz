@@ -1,0 +1,17 @@
+Git
+=====
+It is version control system is a tool that helps to track changes
+in code.it is 
+1)Popular
+2)Free & Open Source
+3)fast & Scalable
+Github
+========
+github is a website that allows developers to store and manage their
+code using it
+ex.https://github.com
+
+Github Account
+=============
+Creating nre repository:suraj
+make our project
