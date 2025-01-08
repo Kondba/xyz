@@ -1,0 +1,7 @@
+Dear Sir/Madam,
+
+I hope this email finds you well. My name is Ambhore Kondba Panditrao, and I am writing to express my interest in the Java Developer position at Aurush Tech PVT LTD. 
+I have one years and two months of hands-on experience in Java development,  My Previous Company is Digital main Baner Pune in that company 
+I was worked as a backend Developer and my role and responsibility is I had work on Junit testing Framework with the help of Mockito and Jacoco,Means our Developer 
+teams develop code once and that code will be check before the deployment so that I handled that code means check that code is working correct or not with the the 
+help of Junit Framework means creating a mocking object and chec
