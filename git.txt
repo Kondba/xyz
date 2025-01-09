@@ -15,3 +15,16 @@ Github Account
 =============
 Creating nre repository:suraj
 make our projects
+
+steps for github
+
+1)git status
+2)touch.txt
+3)git init
+4)git commit -m ""
+5)git push -u origin branch
+
+creating new branch
+git checkout -b branchname
+git branch
+git checkout branchname(changing one branch to another)
